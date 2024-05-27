@@ -146,6 +146,7 @@ function sell(){
 
 <style scoped>
 .person-trade {
+    position:fixed;
     padding: 20px;
 }
 
